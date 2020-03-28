@@ -11,4 +11,5 @@ public class test2 {
     String ffff = "4";
     String ddd="haha";
     String rrr = "hello";
+    String rrrr = "333";
 }
