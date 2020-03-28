@@ -9,4 +9,5 @@ public class test2 {
     String ff = "4";
     String fff = "4";
     String ffff = "4";
+    String ddd="haha";
 }
