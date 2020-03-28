@@ -6,4 +6,7 @@ public class test2 {
     String c = "3";
     String d = "4";
     String f = "4";
+    String ff = "4";
+    String fff = "4";
+    String ffff = "4";
 }
